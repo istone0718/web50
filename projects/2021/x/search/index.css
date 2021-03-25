@@ -1,0 +1,93 @@
+body {
+
+    font-family: arial, sans-serif;
+
+}
+
+#search {
+
+    left: 50%;
+    top: 40%;
+    margin-top: -125px;
+    margin-left: -125px;
+    position: absolute;
+    
+}
+
+#searchBox {
+
+    width: 600px;
+    height: 35px;
+    left: -85px;
+    top: 30px;
+    margin-top: -125px;
+    margin-left: -75px;
+    position: relative;
+    border: 2px solid rgb(223, 223, 223);
+    border-radius: 20px;
+    text-indent: 25px;
+    font-size: 18px;
+    outline: none;
+
+}
+
+a {
+
+    color: black;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+
+}
+
+.button {
+
+    position: fixed;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(243, 242, 242);
+    border: 2px solid rgb(240, 240, 240);
+    border-radius: 2px;
+
+}
+
+#otherButtons {
+
+    font-size: 14px;
+
+}
+
+#searchButton {
+
+    margin-top: 75px;
+    margin-left: -560px;
+
+}
+
+#luckyButton {
+
+    margin-top: 45px;
+    margin-left: 150px;
+
+}
+
+#advSearch {
+
+    float: right;
+    padding: 10px;
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+
+}
+
+#imgButton {
+
+    float: right;
+    padding: 10px;
+    margin-right: 10px;
+    
+}

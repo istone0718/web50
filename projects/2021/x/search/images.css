@@ -1,0 +1,82 @@
+body {
+
+    font-family: arial, sans-serif;
+
+}
+
+#search {
+
+    left: 50%;
+    top: 38%;
+    margin-top: -125px;
+    margin-left: -125px;
+    position: absolute;
+    
+}
+
+#searchBox {
+
+    width: 600px;
+    height: 35px;
+    left: -85px;
+    top: 15px;
+    margin-top: -125px;
+    margin-left: -75px;
+    position: relative;
+    border: 2px solid rgb(223, 223, 223);
+    border-radius: 20px;
+    text-indent: 20px;
+    font-size: 20px;
+    outline: none;
+
+}
+
+#logo {
+
+    margin-left: -30px;
+
+}
+
+a {
+
+    color: black;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+
+}
+
+#otherButtons {
+
+    font-size: 14px;
+
+}
+
+#searchButton {
+
+    float: center;
+    
+    margin-top: 60px;
+    margin-left: -470px;
+
+    position: fixed;
+    width: 150px;
+    height: 35px;
+    background-color: rgb(243, 242, 242);
+    border: 2px solid rgb(240, 240, 240);
+    border-radius: 2px;
+
+}
+
+#googleSearch {
+
+    float: right;
+    padding: 10px;
+    border-color: rgb(0, 0, 0);
+    border-width: 1px;
+
+}
